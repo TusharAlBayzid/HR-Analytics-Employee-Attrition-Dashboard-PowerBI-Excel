@@ -42,7 +42,7 @@ This single-page, interactive dashboard contains **6 KPI Cards**, **8 Core Analy
 
 *   `HR_Analytics_Dashboard.pbix` : The fully functional Power BI dashboard containing the data model, custom DAX calculations, and interactive visuals.
 *   `HR_Analytics.csv` : The raw dataset used for this project.
-*   `HR Analytics Dashboard - Employee Attrition Analysis.png` : A high-resolution image preview of the completed dashboard.
+*   `HR Analytics Dashboard - Employee Attrition Analysis.jpg` : A high-resolution image preview of the completed dashboard.
 *   `HR Analytics Dashboard - Employee Attrition Analysis.pdf` : A static PDF export of the complete dashboard for quick review.
 *   `BG12.jpg` : The custom canvas background image used in the dashboard.
 
